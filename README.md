@@ -1,4 +1,6 @@
 ![Screenshot (696)](https://github.com/narendrajethi220/Monitoring-System-Dashboar/assets/55850738/a0b8f876-0598-4f3d-9ec5-be98edb9354a)
+![Screenshot (697)](https://github.com/narendrajethi220/MonitoringSystemDashboard/assets/55850738/bd6fbbc6-08cc-42fb-93c3-01ba80be6429)
+
 
 # Getting Started with Create React App
 
