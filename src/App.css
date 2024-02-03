@@ -252,7 +252,7 @@ h4 {
   background-color: #4169e1;
   color: white;
   /* font-size: larger; */
-  padding: 2px; /* Adjust padding as needed */
+  padding: 2px; 
   border: none;
   border-radius: 50%;
   display: flex;
@@ -260,7 +260,7 @@ h4 {
   justify-content: center;
 }
 .btn-icon {
-  font-size: 1.2rem; /* Adjust icon size as needed */
+  font-size: 1.2rem; 
   margin-right: 2px;
   font-weight: 800;
 }
@@ -331,7 +331,7 @@ td {
 
 th {
   /* background-color: #808080; Gray background color for headers */
-  color: #808080; /* Text color for headers */
+  color: #808080; 
 }
 
 .health {
@@ -498,21 +498,20 @@ th {
 .circular-progress-with-tick {
   border: white;
   position: relative;
-  width: 100px; /* Adjust the width as needed */
-  height: 100px; /* Adjust the height as needed */
-}
+  width: 100px; 
+  height: 100px; 
 
 .tick-mark {
   position: absolute;
   top: 18%;
   left: 18%;
-  width: 1px; /* Adjust the width of the tick mark */
-  height: 1px; /* Adjust the height of the tick mark */
+  width: 1px; 
+  height: 1px; 
   /* background-color: #22c55e; */
   font-size: 4rem;
   color: #07d707;
   transform: translate(-50%, -50%);
-  /* rotate(45deg); Adjust rotation as needed */
+  /* rotate(45deg);
 }
 /*========================================== Pressure */
 .pressure-value {
@@ -589,7 +588,7 @@ th {
 @media only screen and (max-width: 768px) {
   .sidebar {
     width: 100%;
-    padding-top: 80px; /* Adjust as needed */
+    padding-top: 80px; 
     position: static;
   }
 
@@ -651,7 +650,7 @@ th {
   }
 
   .line-chart {
-    height: 200px; /* Adjust as needed */
+    height: 200px; 
   }
 
   .download-button,
@@ -725,7 +724,7 @@ th {
   }
 
   .line-chart {
-    height: 150px; /* Adjust as needed */
+    height: 150px; 
   }
 
   .download-button,
