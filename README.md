@@ -1,3 +1,5 @@
+![Screenshot (696)](https://github.com/narendrajethi220/Monitoring-System-Dashboar/assets/55850738/a0b8f876-0598-4f3d-9ec5-be98edb9354a)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
