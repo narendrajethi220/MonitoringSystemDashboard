@@ -18,11 +18,7 @@
   /* border: 2px solid black; */
   position: fixed;
 }
-.mobile-view {
-  display: none;
-  background-color: transparent;
-  border: none;
-}
+
 .icon {
   font-size: larger;
   margin-right: 0.8rem;
@@ -771,4 +767,11 @@ th {
   .stock-icon {
     font-size: 1rem;
   }
+}
+/* ==========================================Maps==================== */
+.map {
+  margin-left: 1.5rem;
+  width: 65%;
+  /* border: 2px solid gray; */
+  border-radius: 10px;
 }

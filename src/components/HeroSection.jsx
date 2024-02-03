@@ -53,6 +53,16 @@ const HeroSection = () => {
           </div>
         </div>
       </div>
+      <div className="map">
+        <iframe
+          title="Google Maps - Roorkee"
+          width="100%"
+          height="600"
+          style={{ borderRadius: "10px" }}
+          src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Roorkee+(My%20Business%20Name)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
+          allowFullScreen
+        ></iframe>
+      </div>
     </div>
   );
 };
