@@ -9,20 +9,20 @@ import { FiDatabase } from "react-icons/fi";
 import { IoSettingsOutline } from "react-icons/io5";
 import { TbActivityHeartbeat } from "react-icons/tb";
 import { PiAlien } from "react-icons/pi";
-import { GiHamburgerMenu } from "react-icons/gi";
-import { IoCloseSharp } from "react-icons/io5";
+// import { GiHamburgerMenu } from "react-icons/gi";
+// import { IoCloseSharp } from "react-icons/io5";
 
 const Sidebar = () => {
   return (
     <div className="sidebar">
       {/* Navigation Links with Icons */}
 
-      <button className="mobile-view">
+{/*       <button className="mobile-view">
         <GiHamburgerMenu className="mobile-view-icon" />
       </button>
       <button className="mobile-view">
         <IoCloseSharp className="mobile-view-icon" />
-      </button>
+      </button> */}
 
       <Link to="/" className="sidebar-link active">
         <GrOverview className="icon" />
